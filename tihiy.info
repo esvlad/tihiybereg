@@ -1,0 +1,13 @@
+name = Tihiy bereg
+description = Made by Starcev Vladislav
+package = Core
+version = VERSION 1.0
+core = 7.x
+screenshot  = screenshot.jpg
+
+
+stylesheets[all][] = css/jquery.bxslider.css
+stylesheets[all][] = css/style.css
+scripts[] = js/jquery.appearHover.min.js
+scripts[] = js/jquery.bxslider.min.js
+scripts[] = js/jquery.maskedinput.min.js
